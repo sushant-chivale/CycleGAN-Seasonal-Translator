@@ -28,7 +28,7 @@ mkdir -p data/{trainA,trainB,testA,testB} saved_models images/summer2winter resu
 python your_script.py  # Run the main training code
 ```
 
-### Key Parameters
+### Key Hyperparameters
 - **Epochs**: 10
 - **Batch Size**: 1
 - **Learning Rate**: 0.0002
